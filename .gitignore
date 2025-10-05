@@ -1,0 +1,17 @@
+# KiCAD
+*.kicad_prl
+*.xml
+*.bak
+*-backups
+fp-info-cache
+**/Gerbers/*
+!**/Gerbers/*.zip
+
+# MPLAB X
+**/*.X/.generated_files
+**/*.X/build
+**/*.X/debug
+**/*.X/dist
+**/*.X/nbproject/Makefile-*
+**/*.X/nbproject/Package-*
+**/*.X/nbproject/private
