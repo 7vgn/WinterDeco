@@ -7,7 +7,7 @@ fp-info-cache
 **/Gerbers/*
 !**/Gerbers/*.zip
 
-# MPLAB X
+# MPLAB X (see https://developerhelp.microchip.com/xwiki/bin/view/software-tools/ides/x/version-control/working-with-version-control/)
 **/*.X/.generated_files
 **/*.X/build
 **/*.X/debug
