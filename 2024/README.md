@@ -7,7 +7,7 @@ The touch sensors are implemented using the [PIC18F14Q41](https://www.microchip.
 ## Bill of Materials
 
 | Ref | Qty | Part | Value | Links[^links]
-| --- | ---:| --- |
+| --- | ---:| --- | --- | --- |
 | - | 1 | PCB | 2-layer, 1.6mm thickness, white soldermask, black silkscreen, ENIG[^enig] | [J](https://jlcpcb.com/)
 | BT1 | 1 | Battery Clip | CR2032, SMD mount | [M](https://mouser.com/ProductDetail/?qs=sGAEpiMZZMvxqoKe%252BDjhrhkd9JgmX6KPIe2Fc6FHFcOAlHTLYwGDJA%3D%3D) [D](https://www.digikey.com/en/products/detail/te-connectivity-linx/BAT-HLD-003-SMT-TR/14301788?s=N4IgTCBcDaIEIEEAqBaAEgGQCIoAy4GYUBlAWVSQCUQBdAXyA) [R](https://www.reichelt.de/shop/produkt/knopfzellenclip_fuer_20_mm_smd-56574)
 | C1 | 1 | Capacitor | SMD 1206, 100µF, X5R | [M](https://mouser.com/ProductDetail/?qs=pUKx8fyJudDzdyEEakAKPA%3D%3D) [D](https://www.digikey.com/en/products/detail/murata-electronics/GRM31CR60J107KEA8L/16286000?s=N4IgTCBcDaIOICUCyBmAjAYQQNgAwCk1cB2AaQFEBBADgBkQBdAXyA) [R](https://www.reichelt.de/shop/produkt/mlcc_1206_100_f_6_3_v_-10_x5r-409219)
