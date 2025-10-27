@@ -6,6 +6,7 @@
 **/PCB/fp-info-cache
 **/PCB/Gerbers/*
 !**/PCB/Gerbers/*.zip
+WinterDeco.bak
 
 # MPLAB X (see https://developerhelp.microchip.com/xwiki/bin/view/software-tools/ides/x/version-control/working-with-version-control/)
 **/*.X/.generated_files
