@@ -61,7 +61,7 @@ void ledInit()
 	currentSeqPos = 0;
 	currentRow = 0;
 	
-	// Configure RC[0:7} and RB7 outputs
+	// Configure RC[0:7] and RB7 as outputs
 	TRISC = 0;
 	TRISBbits.TRISB7 = 0;
 	

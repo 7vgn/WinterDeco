@@ -18,4 +18,3 @@
 uint16_t batteryVoltage(void);
 
 #endif // BATTERY_H
-
