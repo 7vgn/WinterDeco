@@ -14,13 +14,13 @@
  * @brief Initialise the driver
  * @details Must be called before any other function in this library.
  */
-void touchInit();
+void touchInit(void);
 
 /**
  * @brief Determine if the sensor is currently touched or not
  * @param sensor The sensor to be checked.
  * @return Returns true if the sensor is touched, otherwise false.
  */
-bool isTouched();
+bool isTouched(void);
 
 #endif // TOUCH_H

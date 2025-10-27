@@ -12,13 +12,13 @@
  */
 static const int16_t THRESHOLD = -1000;
 
-void touchInit()
+void touchInit(void)
 {
 	// Configure sensor pin as analogue inputs
 	TRISAbits.TRISA5 = 1;
 	ANSELAbits.ANSELA5 = 1;
 
-	// Configure Guard Ring Pins RC7 & RB7
+	// Configure Guard Ring Pins RB5 & RB7
 	TRISBbits.TRISB5 = 0;
 	TRISBbits.TRISB7 = 0;
 	LATBbits.LATB5 = 0;
@@ -27,7 +27,7 @@ void touchInit()
 	RB7PPS = 0x28; // ADGRDB
 }
 
-bool isTouched()
+bool isTouched(void)
 {
 	// Start up ADC
 	PMD2bits.ADCMD = 0;

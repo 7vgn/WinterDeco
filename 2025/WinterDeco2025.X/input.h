@@ -41,7 +41,7 @@ typedef enum
 /**
  * @brief Defines swhat constitutes a "long" time
  * @details This is in units of 100ms (or whatever the period between calls to
- * getInputEvent()).
+ * inputUpdate()).
  */
 #define LONG_PRESS_DURATION 20
 
