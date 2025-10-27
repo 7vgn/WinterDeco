@@ -1,6 +1,6 @@
 # Winter Decoration
 
-Every year since 2023, I have created a winter-themed pice of decoration based on a custom-made PCB. The primary goal was to get some SMD soldering practice, but they also make nice presents. 
+Every year since 2023, I have created a winter-themed piece of decoration based on a custom-made PCB. The primary goal was to get some SMD soldering practice, but they also make nice presents. 
 
 * [Evergreen Tree](2023/) (2023)
 * [Simon the Snowman](2024/) (2024)
