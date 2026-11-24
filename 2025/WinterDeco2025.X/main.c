@@ -197,7 +197,7 @@ void sleepUntilInput(void)
 void main(void)
 {
 	// Disable unused peripheral modules
-	// Used peripherals: Timer 0, Timer 1, UART 1, ADC, Fixed Voltage Reference
+	// Used peripherals: Timer 0, Timer 2, UART 1, ADC, Fixed Voltage Reference
 	PMD0bits.CRCMD = 1;
 	PMD0bits.SCANMD = 1;
 	PMD1bits.CM1MD = 1;
