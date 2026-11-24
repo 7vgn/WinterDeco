@@ -77,7 +77,12 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|152300000|127000000|F.Cu|4|b95f1c5c-69fb-43d2-a731-f84917ee735e|8d375389-7013-46cf-b0ae-ca2a2107f761",
+          "Connection is made by component"
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -711,7 +716,7 @@
       {
         "filename": "WinterDeco2024.kicad_sch",
         "name": "WinterDeco2024",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
       }
     ],
     "used_designators": "",
@@ -720,7 +725,7 @@
   "sheets": [
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
-      "Root"
+      "WinterDeco2024"
     ]
   ],
   "text_variables": {},
